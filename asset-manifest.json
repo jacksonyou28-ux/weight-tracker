@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/weight-tracker/static/css/main.bb6c6e03.css",
-    "main.js": "/weight-tracker/static/js/main.214f56f8.js",
+    "main.css": "/weight-tracker/static/css/main.e03d9085.css",
+    "main.js": "/weight-tracker/static/js/main.d4304980.js",
     "index.html": "/weight-tracker/index.html",
-    "main.bb6c6e03.css.map": "/weight-tracker/static/css/main.bb6c6e03.css.map",
-    "main.214f56f8.js.map": "/weight-tracker/static/js/main.214f56f8.js.map"
+    "main.e03d9085.css.map": "/weight-tracker/static/css/main.e03d9085.css.map",
+    "main.d4304980.js.map": "/weight-tracker/static/js/main.d4304980.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb6c6e03.css",
-    "static/js/main.214f56f8.js"
+    "static/css/main.e03d9085.css",
+    "static/js/main.d4304980.js"
   ]
 }
