@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weight-tracker/static/css/main.dde15c12.css",
+    "main.js": "/weight-tracker/static/js/main.1e3f9397.js",
+    "index.html": "/weight-tracker/index.html",
+    "main.dde15c12.css.map": "/weight-tracker/static/css/main.dde15c12.css.map",
+    "main.1e3f9397.js.map": "/weight-tracker/static/js/main.1e3f9397.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dde15c12.css",
+    "static/js/main.1e3f9397.js"
+  ]
+}
